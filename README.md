@@ -1,3 +1,3 @@
-I'm currently building a public knowledge protocol.
+worldbuilding 
 
 Find me at https://bairun.xyz or [@bairun_](https://twitter.com/bairun_).
